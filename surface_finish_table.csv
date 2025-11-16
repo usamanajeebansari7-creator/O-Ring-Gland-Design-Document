@@ -1,0 +1,10 @@
+Application_Type,Ra_Max_microns,Rmax_microns,RMS_microinch
+Static Axial - Liquid Contact,0.8,3.2,32
+Static Axial - Vacuum/Gas,0.4,1.6,16
+Static Axial - Groove Sides,1.6,6.3,63
+Static Radial - Non-Pulsating Seal,1.6,6.3,63
+Static Radial - Pulsating Seal,0.8,3.2,32
+Static Radial - Groove Sides,3.2,12.5,125
+Dynamic Hydraulic - Rod/Cylinder,0.4,1.6,16
+Dynamic Hydraulic - Groove Base,1.6,6.3,63
+Dynamic Hydraulic - Chamfer,3.2,12.5,125
